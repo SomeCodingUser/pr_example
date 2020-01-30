@@ -17,6 +17,7 @@ void test()
     printf("Heading\r\n");
     printf("Text1\r\n");
     printf("Text2\r\n");
+    printf("Text3\r\n");
     printf("Footer\r\n");
 }
 void print2lines()
